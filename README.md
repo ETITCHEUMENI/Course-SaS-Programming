@@ -54,6 +54,16 @@ Enterprise Guide: Select Edit -> Format Code or press Ctrl+I.
 
 Procedure action statements that support the `IFRAME=` option allow frames, which are the backplanes behind the graphs. The backplane is the area within the graph axes. To place an image on the backplane of a graph, specify the `IFRAME=` option in the procedure action statement that generates the graph. On the `IFRAME=` option, specify either the path to the image file in quotation marks or a fileref that has been defined to point to the image file:
 
+We need to put these following two we to write the code below the graph
+
+Because the default value for the GPLOT procedure’s IMAGESTYLE= option is TILE, the image is copied as many times as needed to fill the frame area.
+
+![](image/Capture4.PNG)
+
+You can specify IMAGESTYLE=FIT in the GOPTIONS statement to stretch the image so that a single image fits within the entire frame area.
+
+![](image/Capture5.PNG)
+
 
 **Note**: If you specify the `NOFRAME` option in the procedure action statement or if you specify `STYLE=0` in the `AXIS` statement, the `IFRAME=` option is ignored.
 
@@ -115,11 +125,3 @@ proc gchart data=sales;
                  iframe="external-image-file"; /* Path to your image file */
 run;
 quit;
-
-Because the default value for the GPLOT procedure’s IMAGESTYLE= option is TILE, the image is copied as many times as needed to fill the frame area.
-
-![](image/Capture4.PNG)
-
-You can specify IMAGESTYLE=FIT in the GOPTIONS statement to stretch the image so that a single image fits within the entire frame area.
-
-![](image/Capture5.PNG)
