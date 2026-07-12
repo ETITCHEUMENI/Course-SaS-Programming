@@ -1,0 +1,24 @@
+                                                  The MEANS Procedure
+
+ Variable  Label                                         Minimum              Mean           Maximum
+ ---------------------------------------------------------------------------------------------------
+ MSRP      Manufacturer Suggested Retail Price     13005.0000000     24925.0000000     52195.0000000
+ Invoice   Invoice Price                           11966.0000000     22840.7500000     48690.0000000
+ ---------------------------------------------------------------------------------------------------
+
+
+  Obs  Manufacturer      Model name  Manufacturer Suggested Retail Price  Invoice Price  Average Miles per Gallon
+-----  ------------  --------------  -----------------------------------  -------------  ------------------------
+    1  Acura         MDX                                           36945          33337                        20
+    2  Acura         RSX Type S 2dr                                23820          21761                      27.5
+    3  Acura         TSX 4dr                                       26990          24647                      25.5
+    4  Acura         TL 4dr                                        33195          30299                        24
+    5  BMW           325Ci 2dr                                     30795          28245                      24.5
+    6  BMW           X5 4.4i                                       52195          48690                        19
+    7  Chevrolet     Cavalier 4dr                                  14610          13697                      31.5
+    8  Ford          Focus LX 4dr                                  13005          11966                      31.5
+    9  Honda         Accord LX 4dr                                 20140          18361                        30
+   10  Honda         Civic DX 4dr                                  13760          12741                        35
+   11  Toyota        Camry LE 4dr                                  19560          17558                      28.5
+   12  Toyota        Corolla CE 4dr                                14085          12787                        36
+

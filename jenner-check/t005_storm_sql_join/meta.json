@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_storm_sql_join",
+  "source_file": "Getting Started with SAS Programming/Week 7- Module Summary Using SQL in SAS/p107d02.sas",
+  "source_blob_sha": "7b8aef61c50b10c96857197e7869b4db1c1e8930",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "Query logic (PROC SQL inner join qualifying storm_summary.Basin to resolve the ambiguous-column error the activity walks through) is unmodified from the demo's corrected query. Replaced the LIBNAME PG1 course-data dependency (PG1.STORM_SUMMARY, PG1.STORM_BASINCODES -- not shipped in the repo) with small inline DATALINES mocks shaped like the real tables (Season/Name/Basin/MaxWindMPH and Basin/BasinName)."
+}

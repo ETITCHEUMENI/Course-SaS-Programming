@@ -1,0 +1,12 @@
+
+  Obs  Season     Name  Basin  MaxWindMPH
+-----  ------  -------  -----  ----------
+    1    2005  Wilma    NA            185
+    2    2017  Irma     NA            180
+    3    2005  Katrina  NA            175
+    4    2017  Maria    NA            175
+    5    1998  Georges  NA            155
+    6    2008  Ike      NA            145
+    7    1999  Bret     na            125
+    8    2012  Sandy    na            115
+

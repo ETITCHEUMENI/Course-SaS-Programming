@@ -1,0 +1,18 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA front rear
+
+NOTE: Multi-output DATA step splits stream into: front rear
+
+NOTE: Read 12 rows from sashelp.cars.
+NOTE: Wrote front (9 rows, 15 columns).
+NOTE: Wrote rear (1 rows, 15 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=front
+
+NOTE: PROC PRINT completed: 5 observations printed, 3 variables
+NOTE: PROC PRINT data=rear
+
+NOTE: PROC PRINT completed: 1 observations printed, 3 variables

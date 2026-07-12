@@ -1,0 +1,20 @@
+                                             Cars with Average MPG Over 35                                              
+
+
+  Obs    Make           Model   Type  AvgMPG
+-----  ------  --------------  -----  ------
+    1  Toyota  Corolla CE 4dr  Sedan      36
+
+                                                Average MPG by Car Type                                                 
+
+                                                  The MEANS Procedure
+
+                                              Analysis Variable : AvgMPG
+
+                                                  N
+                                Vehicle type    Obs      Mean      Minimum      Maximum
+                                -------------------------------------------------------
+                                SUV               2      19.5         19.0         20.0
+                                Sedan            10      29.4         24.0         36.0
+                                -------------------------------------------------------
+

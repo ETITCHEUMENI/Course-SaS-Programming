@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_heart_freq",
+  "source_file": "Getting Started with SAS Programming/z. All_Demo_Courses/p105d02.sas",
+  "source_blob_sha": "c2426d93ab470802c405e8cdfba72edd3e5bd3d1",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "Unmodified 'syntax and example' block from the demo file: PROC FREQ on sashelp.heart with ORDER=FREQ, NLEVELS, NOCUM, and PLOTS=FREQPLOT (ODS graphics). Self-contained (sashelp.heart) -- no substitution needed. Trimmed the file's own fill-in-the-blank storm-data exercise that follows it (not runnable as-is)."
+}

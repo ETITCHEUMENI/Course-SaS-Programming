@@ -1,0 +1,31 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA storm_summary
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote storm_summary (10 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA indian atlantic pacific
+
+NOTE: Multi-output DATA step splits stream into: indian atlantic pacific
+
+NOTE: Read 10 rows from storm_summary.
+NOTE: Wrote indian (2 rows, 5 columns).
+NOTE: Wrote atlantic (6 rows, 5 columns).
+NOTE: Wrote pacific (2 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=indian
+
+NOTE: PROC PRINT completed: 2 observations printed, 5 variables
+NOTE: PROC PRINT data=atlantic
+
+NOTE: PROC PRINT completed: 6 observations printed, 5 variables
+NOTE: PROC PRINT data=pacific
+
+NOTE: PROC PRINT completed: 2 observations printed, 5 variables

@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-12T14:49:02Z",
+  "_captured_run_id": "r_0d9aa37ae5fb40fd9b0ff20ba4177ca4",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote front (9 rows, 15 columns).",
+    "NOTE: Wrote rear (1 rows, 15 columns).",
+    "NOTE: Multi-output DATA step splits stream into: front rear"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

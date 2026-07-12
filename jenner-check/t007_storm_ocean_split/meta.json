@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_storm_ocean_split",
+  "source_file": "Getting Started with SAS Programming/z. All_Demo_Courses/p104d07.sas",
+  "source_blob_sha": "a1bbd79d07c67fbc622c3ebafde4caedefe7b19e",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "Classification logic (substr(Basin,2,1) -> Ocean, three-way OUTPUT split into indian/atlantic/pacific tables) follows the demo's own intent, rewritten with proper IF-THEN/DO blocks per the activity's instruction ('Modify the IF-THEN statements to use IF-THEN/DO syntax') -- the file's one-liner ('Ocean=\"Indian\" and output indian;') chains an assignment and a statement with AND, which is not valid SAS DATA step syntax. Replaced the LIBNAME PG1 course-data dependency (PG1.STORM_SUMMARY) with a small inline DATALINES mock, and added PROC PRINT steps to show the three-way split."
+}

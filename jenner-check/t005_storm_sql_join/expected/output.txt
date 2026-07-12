@@ -1,0 +1,12 @@
+Season      Name  Basin  MaxWindMPH       BasinName
+------  --------  -----  ----------  --------------
+2017.0      Irma     NA       180.0  North Atlantic
+2017.0     Maria     NA       175.0  North Atlantic
+2015.0  Patricia     EP       215.0    East Pacific
+2012.0     Sandy     NA       115.0  North Atlantic
+2008.0       Ike     NA       145.0  North Atlantic
+2005.0   Katrina     NA       175.0  North Atlantic
+2005.0     Wilma     NA       185.0  North Atlantic
+2001.0      Iris     NI       100.0    North Indian
+1999.0      Bret     NA       125.0  North Atlantic
+1998.0   Georges     NA       155.0  North Atlantic

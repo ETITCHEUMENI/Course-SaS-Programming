@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_cars_labels",
+  "source_file": "Getting Started with SAS Programming/Week 5- Module Summary Analyzing and Reporting on Data/p105a03.sas",
+  "source_blob_sha": "a78b0e7108b962449a589ef494639cec3504be0a",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "Unmodified: LABEL statement in a sashelp.cars DATA step, then PROC MEANS (labels show automatically) and PROC PRINT with the LABEL option (needed for labels to appear there too) -- this is the completed/answered form of the activity. Self-contained (sashelp.cars) -- no substitution needed."
+}
