@@ -1,0 +1,14 @@
+                                                   The FREQ Procedure
+
+Number of Variable Levels
+
+Variable                 Levels
+--------------------------------
+Cholesterol status            3
+
+
+Cholesterol status    Frequency    Percent
+-------------------------------------------
+Desirable                    24     48.00
+High                         17     34.00
+Borderline                    9     18.00

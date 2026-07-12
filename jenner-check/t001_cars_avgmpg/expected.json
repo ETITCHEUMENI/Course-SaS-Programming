@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-12T14:48:24Z",
+  "_captured_run_id": "r_1f02f9bab64b435ea28b180a1d6fdd4e",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 12 rows from sashelp.cars.",
+    "NOTE: Wrote mycars (12 rows, 16 columns).",
+    "NOTE: PROC PRINT completed: 1 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

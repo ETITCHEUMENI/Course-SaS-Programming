@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_storm_sort",
+  "source_file": "Getting Started with SAS Programming/Week 3- Summary of Exploring and Validating Data/p103a07.sas",
+  "source_blob_sha": "1126f49a1371319eb297a1e60255d7151487ae5c",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "PROC SORT step (WHERE Basin in NA/na, BY descending MaxWindMPH into STORM_SORT) is unmodified from the activity's completed answer. Replaced the LIBNAME PG1 course-data dependency (PG1.STORM_SUMMARY) with a small inline DATALINES mock shaped like the real table (Season/Name/Basin/Type/MaxWindMPH/MinPressure), and added a PROC PRINT so the sort result is visible in the captured listing (the original activity only sorts)."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_cars_drivetrain_split",
+  "source_file": "Getting Started with SAS Programming/Week 4- Module Summary Preparing Data/p104a09.sas",
+  "source_blob_sha": "b8658270e9f1d851fd55a373482d7835eb049713",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "Activity 4.09 in the repo walks through a DO/END mismatch bug and its fix; this bundle ships the author's corrected 'correct' block (multi-output DATA step splitting sashelp.cars into front/rear DriveTrain tables) unmodified, plus two small PROC PRINT steps we added to show the split worked. Self-contained (sashelp.cars) -- no substitution needed."
+}

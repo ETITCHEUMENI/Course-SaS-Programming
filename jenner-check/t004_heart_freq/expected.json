@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-12T14:50:19Z",
+  "_captured_run_id": "r_9716e218e5aa4224885ea48c22a4699c",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: ODS Graphics is ON (width=640px, height=480px, format=SVG).",
+    "NOTE: PROC FREQ statement used.",
+    "NOTE: ODS plot written: freq_chol_status.spec.json"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

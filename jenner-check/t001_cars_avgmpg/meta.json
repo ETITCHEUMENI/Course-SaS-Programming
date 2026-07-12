@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_cars_avgmpg",
+  "source_file": "Getting Started with SAS Programming/Week 1 - Module Summary Essentials/p101a03.sas",
+  "source_blob_sha": "ac1c001c06431799c2eafc393f81798ba794c8d7",
+  "source_commit": "89fe1239b13483e38390cbff2fcc2db357f5c290",
+  "notes": "Unmodified: builds mycars from sashelp.cars, computes AvgMPG, prints cars with AvgMPG>35, then PROC MEANS by Type. Fully self-contained (sashelp.cars) -- no substitution needed."
+}

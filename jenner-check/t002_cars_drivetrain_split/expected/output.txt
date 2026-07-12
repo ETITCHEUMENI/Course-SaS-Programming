@@ -1,0 +1,15 @@
+
+  Obs       Make           Model  DriveTrain
+-----  ---------  --------------  ----------
+    1  Acura      RSX Type S 2dr  FWD
+    2  Acura      TSX 4dr         FWD
+    3  Acura      TL 4dr          FWD
+    4  Chevrolet  Cavalier 4dr    FWD
+    5  Ford       Focus LX 4dr    FWD
+
+... 4 more observations (showing 5 of 9)
+
+  Obs  Make      Model  DriveTrain
+-----  ----  ---------  ----------
+    1  BMW   325Ci 2dr  RWD
+

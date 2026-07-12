@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-12T14:49:38Z",
+  "_captured_run_id": "r_e05eb66edc6e45c5a8e902f72c444e87",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote cars_update (12 rows, 5 columns).",
+    "NOTE: PROC PRINT completed: 12 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

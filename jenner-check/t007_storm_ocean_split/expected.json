@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-12T14:53:13Z",
+  "_captured_run_id": "r_f5cc208574cb4f1bb72ad6f77e2b93a4",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote indian (2 rows, 5 columns).",
+    "NOTE: Wrote atlantic (6 rows, 5 columns).",
+    "NOTE: Wrote pacific (2 rows, 5 columns).",
+    "NOTE: Multi-output DATA step splits stream into: indian atlantic pacific"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
